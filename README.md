@@ -6,6 +6,11 @@ Content is for instructive purposes only. I highly recommend using packages and 
 Example code is intended to be used in combination with mentoring and reference documentation. It is not intedend to be complete courses. Reference Coursera or Stanford University for online instruction.
 
 # Files
-
+## Python Crash Course
+### 1 PCC - Language Basics.ipynb - Topics include:
+* Whitespace formatting
+* Importing Modules
+* Assignments and Bindings or references
+* Objects and object references
   * KerasImagePreProcessing.ipynb: Examples using Keras Image prepreprocessing.  
   * VecUtils.ipynb: Vector and matrix python functions without use of NumPy.
