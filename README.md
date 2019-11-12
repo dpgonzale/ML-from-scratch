@@ -8,7 +8,7 @@ Example code is intended to be used in combination with mentoring and reference 
 Software is written for Python 3.7. While it should be compatible with 3.6 and 3.8, I haven't performed regression tests on this code.
 
 # Files
-## Python Crash Course - PCC
+## PCC - Python Crash Course
 While there are many languages that are excellent for machine learning and Data Science, I have found that Python has the shortest learning curve and is used as a general purpose programming language that is useful for developing applications on any device using any OS.
 
 This Crash Course is focused on Python and programming fundamentals for Data Science and Machine Learning only and is not an exhaustive discussion on Python. It also contains programming examples and reference code using Python intended for use with verbal instruction.
