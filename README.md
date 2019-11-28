@@ -1,17 +1,19 @@
 # Machine Learning and Data Science from scratch
 Codeing examples and references for mentoring Data Science and ML from the ground up.
 
-Content is for instructive purposes only. I highly recommend using packages and tools available to for download (import) instead of expanding on the examples shown here. As a new Data Scientist or ML engineer, there is value in understanding the principles and mechanics behind these concepts. 
+Content for instructive purposes only and is intended for use in combination with mentoring and for use as a reference. Crash Courses are intendend to provide enough skills for a novice data scientist to begin working on projects. I can recommend books or courses if you wish explore each topic at depth. I highly recommend using packages and tools available for download (import) instead of expanding on examples shown here. 
 
-Example code is intended to be used in combination with mentoring and reference documentation. It is not intedend to be complete courses. Reference Coursera or Stanford University for online instruction.
-
-Software is written for Python 3.7. While it should be compatible with 3.6 and 3.8, I haven't performed regression tests on this code.
+All software is written using Python 3.7. While it should be compatible with 3.6 and 3.8, I haven't performed regression tests on this code.
+Therefore, you should start with the Python Crash Course (PCC) to before proceeding to Linear Algebra Crash Course (LACC) if you need to refresh this skill.
 
 # Files
 ## PCC - Python Crash Course
 While there are many languages that are excellent for machine learning and Data Science, I have found that Python has the shortest learning curve and is used as a general purpose programming language that is useful for developing applications on any device using any OS.
 
-This Crash Course is focused on Python and programming fundamentals for Data Science and Machine Learning only and is not an exhaustive discussion on Python. It also contains programming examples and reference code using Python intended for use with verbal instruction.
+This Crash Course is focused on Python programming fundamentals for Data Science and Machine Learning only and is not an exhaustive discussion.
+
+## LACC - Linear Algebra Crash Course
+Introduction to Linear Algebra using Python. Examples will be used in following Crash Courses.
 
 ## NPCC - NumPy Crash Course
 Introduction to the Data Pre-processing module NumPY which is used for numeric processing. Use this module for you data science projects in place of any Crash Course software such as the Linear Algebra Crash Course or Matrix Math functions.
