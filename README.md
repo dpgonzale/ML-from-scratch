@@ -15,6 +15,9 @@ This Crash Course is focused on Python programming fundamentals for Data Science
 ## LACC - Linear Algebra Crash Course
 Introduction to Linear Algebra using Python. Examples will be used in following Crash Courses.
 
+## SCC - Statistics Crash Course
+Introduction to Statistics using Python. Example uses are in data preprocessing and data visulation.
+
 ## NPCC - NumPy Crash Course
 Introduction to the Data Pre-processing module NumPY which is used for numeric processing. Use this module for you data science projects in place of any Crash Course software such as the Linear Algebra Crash Course or Matrix Math functions.
 
