@@ -15,3 +15,6 @@ This Crash Course is focused on Python and programming fundamentals for Data Sci
 
 ## NPCC - NumPy Crash Course
 Introduction to the Data Pre-processing module NumPY which is used for numeric processing. Use this module for you data science projects in place of any Crash Course software such as the Linear Algebra Crash Course or Matrix Math functions.
+
+## MPLCC - Matplotlib Crash Course
+Brief introduction of Matplotlib. Examples of how to create line, bar and scatter charts along with adding colors, legends and labeling axes.
