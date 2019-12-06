@@ -23,3 +23,10 @@ Introduction to the Data Pre-processing module NumPY which is used for numeric p
 
 ## MPLCC - Matplotlib Crash Course
 Brief introduction of Matplotlib. Examples of how to create line, bar and scatter charts along with adding colors, legends and labeling axes.
+
+## PDCC - Pandas Crash Course
+Pandas introduction and reference code. Pandas is an important Data pre-processing tool for Data Science.
+
+Additional resources:
+PandasCheatSheet.pdf: Pandas cheat sheet pdf from [www.DataCamp.com](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
+[Pandas Cheat Sheet](https://github.com/BrendaHali/python_cheat_sheets) Jupyter Notebook from Brenda Hali. Link only, Notebook is not archived here.
