@@ -23,7 +23,9 @@ Introduction to Statistics using Python. Example uses are in data preprocessing 
 Introduction to the Data Pre-processing module NumPY which is used for numeric processing. You can use NumPy and the examples in this course for data science projects in place of previous Crash Course examples such as the Linear Algebra Crash Course or Matrix Math functions.
 
 ## MPLCC - Matplotlib Crash Course
-Brief introduction of Matplotlib. Examples of how to create line, bar and scatter charts along with adding colors, legends and labeling axes.
+Brief introduction of Matplotlib. Examples of how to create line, bar and scatter charts along with adding a legend and labeling axes. Additional information about new chart types, creating annotations, matrix of subplots and drawings are available in the slightly advanced MPLCC 2 file. MPLCC3 includes topics about data visualization using Pandas and Seaborn.
+
+For more advanced Data Visualization look into [Seaborn Documentation](https://seaborn.pydata.org/) as well as the newer [Boken](https://docs.bokeh.org/en/latest/) and [Plotly](https://plot.ly/python/) libaries.
 
 ## PDCC - Pandas Crash Course
 Pandas introduction and reference code. Pandas is an important Data pre-processing tool for Data Science.
