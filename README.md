@@ -30,6 +30,12 @@ For more advanced Data Visualization look into [Seaborn Documentation](https://s
 ## PDCC - Pandas Crash Course
 Pandas introduction and reference code. Pandas is an important Data pre-processing tool for Data Science.
 
+## MFECC - Modeling and Feature Engineering Crash Course
+Data manapulation and analysis is a key part of Data Science engineering. This module takes you from downloading a dataset to creating a logistic regression model. Includes a gentle introduction to:
+- Patsy: A Python package for describing statistical models and for building design matrices.
+- Statsmodels: Statistical computations and models for Python
+- scikit-learn: A set of python modules for machine learning and data mining
+
 ## Additional resources:
 
 PandasCheatSheet.pdf: Pandas cheat sheet pdf from [www.DataCamp.com](https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf).
